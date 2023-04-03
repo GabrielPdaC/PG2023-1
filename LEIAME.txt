@@ -1,0 +1,5 @@
+Exercícios da lista 1, estão separados por diretório, tendo um para cada exercício e variação do exercício.
+
+Baseado no exemplo disponibilizados, feito em C# utilizando Visual Studio.
+
+Compilação com CMake por dentro do Visual Studio.
